@@ -1,0 +1,1 @@
+/Users/havardtysland/Documents/Dataing\ 4.\ semester/Nettverksprogrammering/Øvinger/IDATT2104/Oblig3/target/debug/rust: /Users/havardtysland/Documents/Dataing\ 4.\ semester/Nettverksprogrammering/Øvinger/IDATT2104/Oblig3/src/main.rs
